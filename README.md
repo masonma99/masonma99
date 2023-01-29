@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @masonma99
+- 👋 Hi, I’m **Mason**
 - 👀 I’m interested in Data Analytics, Python, R, database 
-- 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data analytics at Alqongquin College. 
+- 💞️ I’m looking to work as a data analyst after graduation.
 - 📫 How to reach me ... yuet.ma@gmail.com
 
 <!---
