@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Mason**
-- 👀 I’m interested in Data Analytics, Python, R, database 
+- 👀 I’m interested in Data visualization, SQL, Python!
 - 🌱 I’m currently learning data analytics at Alqongquin College. 
 - 💞️ I’m looking to work as a data analyst after graduation.
 - 📫 How to reach me ... yuet.ma@gmail.com
